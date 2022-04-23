@@ -1,9 +1,7 @@
-print('he)(*(*&%^$%llo')
-x = 15
-print('-----world----')
-lol = 'lol'
-loh = 'loh'
-lol if lol else loh
+print('hel-----lo')
+print('wor++++ld')
+x = 1
 
-print('feature112312314544')
+print('feature1 234 ')
+a, b = 1, 2
 
