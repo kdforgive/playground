@@ -1,4 +1,5 @@
-print('hello')
-print('world')
-print('feature1')
+print('he)(*(*&%^$%llo')
+x = 15
+print('-----world----')
+print('feature112312314544')
 
